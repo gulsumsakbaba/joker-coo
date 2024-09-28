@@ -1,0 +1,21 @@
+.feature{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 3rem;
+    width: 3rem;
+    font-size: 1.5rem;
+    color: white;
+}
+.py-4{
+    font-size: xx-large;
+
+}
+.copyright{
+    background-color: black;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: 16px; 
+}
+
+

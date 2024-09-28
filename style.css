@@ -1,0 +1,58 @@
+*{
+    box-sizing: border-box;
+}
+
+
+
+
+
+.img-fluid{
+    width: 800px;
+    height: 400px;
+    margin-top: 5;
+    margin-bottom: 5;
+}
+.feature{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 3rem;
+    width: 3rem;
+    font-size: 1.5rem;
+    color: white;
+}
+.rounded-circle{
+    width: 40px;
+    height: 40px;
+   
+}
+.mt-3{
+    float: right;
+    margin: 10px;
+   
+}
+.card{
+    width: 18rem;
+    margin: 80px;
+
+}
+.card-top{
+
+    width: 40px;
+    height: 40px;
+}
+a{
+    text-decoration: none;
+    color: unset;
+}
+
+.copyright{
+    background-color: black;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: 16px; 
+}
+
+ 
+
+ 

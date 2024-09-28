@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+
+.img-fluid{
+    width: 600px;
+    height: 400px;
+}
+.rounded-circle{
+    border-radius: 50%; 
+    width: 150px;
+    height: 150px;
+} 
+.copyright{
+    background-color: black;
+    text-align: justify evenly;
+} 
+
